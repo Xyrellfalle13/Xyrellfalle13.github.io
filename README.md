@@ -12,5 +12,5 @@ form action="/action_page.php">
   </div>
   <button type="submit" class="btn btn-default">Submit</button>
   
-  <img src="cinqueterre.jpg" class="rounded" alt="Cinque Terre">
+ 
 </form>
